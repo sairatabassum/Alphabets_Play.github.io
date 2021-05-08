@@ -1,6 +1,6 @@
 # English Alphabets & Numbers
 
-### It's simple site for learning English Alphabets & Numbers for kids :baby:
+### It's simple site for learning English Alphabets & Numbers :baby:
 
 <hr></hr>
 
